@@ -1,0 +1,25 @@
+Pointers
+------------
+0x7f33330315a3
+0x7f3331b09fb0
+0x7f3332af62c2
+0x7f3332b1106d
+0x7f33332b8781
+Raw
+------------
+/home/bharati/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f33330315a3]
+/home/bharati/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0) [0x7f3331b09fb0]
+/home/bharati/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2) [0x7f3332af62c2]
+/home/bharati/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f3332b1106d]
+/home/bharati/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f33332b8781]
+
+Demangled
+------------
+__print_back_trace()
+/home/bharati/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x41cfb0)
+/home/bharati/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x14092c2)
+/home/bharati/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/bharati/gl-env/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
